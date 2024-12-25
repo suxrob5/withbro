@@ -3,5 +3,10 @@
 
 
 *{
+    font-family: Montserrat;
+}
+/* Pacifico */
+
+.pacifico-font{
     font-family: Pacifico;
 }
